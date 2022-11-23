@@ -9,6 +9,7 @@ The following comments come from working knowledge of two other frameworks, Inve
 
 * I have been using typed-inject for a while in another project and I can’t stand it. The configuration is clumsy and bloated. It seems like you have to jump through a lot of hoops, just for type checking in your config.
 * TypeDI and TSyringe seem almost the same.
+* See https://npmtrends.com/inversify-vs-tsyringe-vs-typed-inject-vs-typedi for download counts.
 
 ### Inversify
 
