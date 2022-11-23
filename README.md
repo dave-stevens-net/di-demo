@@ -27,7 +27,8 @@ The following comments come from working knowledge of two other frameworks, Inve
 
 ### TypeDI
 * :white_check_mark: Auto injection makes for cleaner configuration.
-* :x: Documentation was incomplete (see @Service decorator and Container API).
+* :x: Documentation was incomplete (see [Service decorator](https://docs.typestack.community/typedi/02-basic-usage-guide/04-service-decorator)
+  and [Container API](https://docs.typestack.community/typedi/02-basic-usage-guide/03-container-api)).
 * :x: Every dependency is a singleton by default and you must declare it as transient if you want it otherwise. This can lead to accidental singleton usage.
 
 ## Conclusion
